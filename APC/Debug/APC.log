@@ -1,0 +1,7 @@
+﻿  apn.cpp
+D:\Project\Code\C++\APC\apn.cpp(152,44): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+D:\Project\Code\C++\APC\apn.cpp(223,45): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+D:\Project\Code\C++\APC\apn.cpp(511,8): warning C4244: 'initialisation' : conversion de 'double' en 'uint32_t', perte possible de données
+  main.cpp
+  Génération de code en cours...
+  APC.vcxproj -> D:\Project\Code\C++\APC\Debug\APC.exe
